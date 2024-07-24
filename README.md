@@ -2,7 +2,7 @@
 
 ### Drag & Drop sticky notes App built with  Appwrite & React
 
-[site](https://appwrite-draggable-notes-sxidsvit.vercel.app/)
+[SITE](https://appwrite-draggable-notes-sxidsvit.vercel.app/)
 
 ![](demo.gif)
 
